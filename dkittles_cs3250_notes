@@ -1,1 +1,78 @@
-notes test
+06/12/2019
+06/17/19
+    Dots 6-12, start chunking at 8+
+
+    Agile
+    short releases, and iterations
+    incremental design
+    User Involvement
+    lightweight documentation
+    informal communication
+    change-- not willing to change is deadly
+    lengthy dev times
+    overall dev time not reduce but many releases
+    diffuculty in responding to changing requiremnets
+    change is expected and part of the process
+    all requirements not understood at beginning
+    too much reliance on heroic effort
+    processes too complex DONT REPEAT OURSELVES- 2 representions of program
+    RUP-100 tasks and roles
+    too much overhead
+    too much waste/ duplication
+    UML and code
+    Code now source of design- comments imbeded
+    Aglie promises
+    finished products always available
+    normal effort by team
+    deal with change
+
+    What matters
+    human interations 
+    first-order effect is people, process and tech are second-order
+    Manage teams
+    process hasn't created what it promised
+    smooth software delevopment
+    people tend to wnat to control everything
+    add more process
+    when that doesn't work (it can't), go back to 1
+    if process were the answer, we'd figured it out by now
+    if it were easy, it'd be done
+    indeed, process can cause more problems than it solves
+    becomes cumbersome and slows progress
+
+    Manifesto fo Agile
+    uncovering better ways of dev software by doing it and helping others do it. through this work we have come to value:
+    individuals and interactions over processes and tools
+    working software over comprehensive documentations 
+    customer collaberation over contract negotiation
+    responding to change over following a plan
+
+    individuals over processes
+    good process won't fix bad team members
+    bad process will hinder good team members
+    everyone must work together to succeed
+    strong team members not necessarily strong programmer, designer, etc
+    communication / interation make for strong team members
+    start small with tools and processes and only increase when truly needed
+    don't create the enviornment first*** let it morph
+    create the team and let them create the enviornment
+
+    working software over documentation
+    software without documentation is a disaster
+    need tp describe system and document designs decisions
+    large amount of doco can becom cumbersome and out of sync
+    knowledge transferred by direct interation
+    produce no document unless its need is immediate and signifant
+
+    customer Collab over contact negototiation
+    successful projects get customer feedback early and often
+    best contracts specify how team and sutomers interact
+
+    responding to change over following a plan
+    things change all the time
+    accept it
+    customers will be happier with product
+    team gains knowledge about problem 
+    customers gain knowledge about solution
+    detailed plans for the next two weeks, rough plans for the quater, crude after that
+        
